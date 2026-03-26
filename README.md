@@ -95,11 +95,11 @@ The system uses 5 key features:
 ### 🔴 High Risk
 <img width="1469" height="1040" alt="high_risk" src="https://github.com/user-attachments/assets/22dda9ba-5892-492e-83cd-aab6af5ae928" />
 
-### 🟢 Low Risk
-<img width="1469" height="1044" alt="low_risk" src="https://github.com/user-attachments/assets/cbb621b2-099f-4447-b639-1fa63da37cb8" />
-
 ### 🟡 Medium Risk
 <img width="1476" height="1035" alt="medium_risk" src="https://github.com/user-attachments/assets/0a5a1750-be91-4108-ad0c-ef98cb72b591" />
+
+### 🟢 Low Risk
+<img width="1469" height="1044" alt="low_risk" src="https://github.com/user-attachments/assets/cbb621b2-099f-4447-b639-1fa63da37cb8" />
 
 ## 🤖 How It Works
 ### 1. Application (app.py – GUI)
