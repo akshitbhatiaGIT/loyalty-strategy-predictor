@@ -12,6 +12,7 @@ An intelligent hybrid AI system that predicts customer churn risk and recommends
 ## 🏗️ Project Structure
 loyalty-strategy-predictor/
 │
+
 ├── app.py                   # PRIMARY — GUI application (run this)
 ├── classifier_module.py     # ML model training and prediction
 ├── rules.pl                 # Prolog knowledge base (diagnosis + treatment rules)
