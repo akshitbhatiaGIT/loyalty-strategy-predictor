@@ -152,7 +152,7 @@ This mirrors how real clinical decision support systems are designed — not rel
 ```bash
 pandas
 scikit-learn
-pwswip
+pyswip
 tkinter
 ```
 Install via: `pip install -r requirements.txt`
