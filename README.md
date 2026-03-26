@@ -89,6 +89,18 @@ The system uses 5 key features:
 | HIGH 🔴 | Service Recovery | Conduct detailed service audit and provide personalized resolution plan. |
 
 ## 📸 Screenshots
+### 🏠 HomePage
+<img width="1489" height="1035" alt="homepage" src="https://github.com/user-attachments/assets/6fe23d5c-9ac4-4e2f-89e7-71fc16640da6" />
+
+### 🔴 High Risk
+<img width="1469" height="1040" alt="high_risk" src="https://github.com/user-attachments/assets/22dda9ba-5892-492e-83cd-aab6af5ae928" />
+
+### 🟢 Low Risk
+<img width="1469" height="1044" alt="low_risk" src="https://github.com/user-attachments/assets/cbb621b2-099f-4447-b639-1fa63da37cb8" />
+
+### 🟡 Medium Risk
+<img width="1476" height="1035" alt="medium_risk" src="https://github.com/user-attachments/assets/0a5a1750-be91-4108-ad0c-ef98cb72b591" />
+
 ## 🤖 How It Works
 ### 1. Application (app.py – GUI)
 * A Tkinter-based graphical interface allows user interaction.
