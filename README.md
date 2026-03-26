@@ -75,6 +75,19 @@ The system uses 5 key features:
 ## 📊 Dataset Format
 ## 💡 What Makes This Unique
 ## 🔮 Future Improvements
+* Add more features (adoption rates, payment delay score)
+* Deploy as web app (Flask / Steamlit)
+* Introduce fourth risk level (Critical)
+* Integrate database for dashbord analysis and better prediction
+
 ## 📦 Requirements
+```bash
+pandas
+scikit-learn
+pwswip
+tkinter
+```
+Install via: `pip install -r requirements.txt`
+
 ## 👤 Author
 **Author:** Akshit Bhatia
