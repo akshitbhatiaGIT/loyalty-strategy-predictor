@@ -37,8 +37,8 @@ loyalty-strategy-predictor/
 
 ### Step 2 — Clone the Repository
 ```bash
-git clone https://github.com/KHUSH241/AIML-PROJECT.git
-cd AIML-PROJECT
+git clone https://github.com/akshitbhatiaGIT/loyalty-strategy-predictor.git
+cd loyalty-strategy-predictor
 ```
 
 ### Step 3 — Install Python Dependencies
