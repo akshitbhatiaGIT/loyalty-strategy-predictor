@@ -69,10 +69,36 @@ The system uses 5 key features:
 * Results displayed to user  
 
 ## 📋 How to Use (Step by Step)
-## Example
+1. Run `python app.py` in your terminal
+2. Enter Customer Details
+   * Contract Duration (Months)
+   * Monthly Usage (GB)
+   * Support Tickets
+   * Customer Type (New/Existing)
+   * Days Since Login
+3. Generate Loyalty Strategy using its button
+4. View Application Results
+   * Churn Risk Level
+   * Recommended Strategy
+   * Action Plan
+5. Modify inputs and enter new details for different scenarios.
+
+## ✨ Example
+| Churn Risk | Strategy | Recommendation |
+| :--- | :--- |
+| HIGH 🔴 | Service Recovery | Conduct detailed service audit and provide personalized resolution plan. |
+
 ## 📸 Screenshots
 ## 🤖 How It Works
 ## 📊 Dataset Format
+```bash
+Contract Duration (Months),Monthly Usage (GB),Support Tickets,Login Frequency,Days Since Last Login,Churn Score
+12,50,0,25.7,1,Low
+6,120,2,9.4,11,Medium
+1,300,5,1.6,47,High
+```
+65 rows covering the full range.
+
 ## 💡 What Makes This Unique
 This system combines two AI paradigms rarely seen together in student projects:
 * ML handles probabilistic, data-driven risk prediction
