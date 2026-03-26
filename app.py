@@ -123,7 +123,7 @@ def run_analysis():
 # ----------------------------------------------------
 
 root = tk.Tk()
-root.title("AI Loyalty Strategy Expert System")
+root.title("RetainIQ - AI Loyalty Strategy Expert System")
 root.geometry("1200x1000")
 root.resizable(False, False)
 BG_PRIMARY = "#0F1419"    
@@ -165,7 +165,7 @@ main_frame.pack(fill='both', expand=True, padx=20, pady=20)
 header_frame = ttk.Frame(main_frame)
 header_frame.pack(fill='x', pady=(0, 20))
 
-ttk.Label(header_frame, text="🤖 AI Loyalty Advisor", 
+ttk.Label(header_frame, text="🤖 RetainIQ - AI Loyalty Advisor", 
           font=('Segoe UI', 24, 'bold'), foreground=ACCENT_PRIMARY).pack(anchor='w')
 ttk.Label(header_frame, text="Intelligent Customer Retention Strategy",
           font=('Segoe UI', 12), foreground="#888").pack(anchor='w', pady=(2, 0))
