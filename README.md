@@ -7,7 +7,17 @@ An intelligent hybrid AI system that predicts customer churn risk and recommends
 ✅ Hybrid AI system (ML + Expert System)  
 ✅ User-friendly Tkinter GUI  
 ✅ Real-time strategy recommendation  
-✅ Color-coded risk visualization 
+✅ Color-coded risk visualization
+AIML-PROJECT/
+│
+├── app_cli.py          # PRIMARY — CLI application (run this)
+├── app.py               # BONUS  — GUI version (optional)
+├── classifier_model.py  # ML model training and prediction
+├── rules.pl             # Prolog knowledge base (diagnosis + treatment rules)
+├── risk_classifier.pkl  # Trained model (auto-generated on first run)
+├── symptoms_data.csv    # Training dataset (190 rows)
+├── requirements.txt     # Python dependencies
+└── README.md
 
 ## 🏗️ Project Structure
 loyalty-strategy-predictor/
