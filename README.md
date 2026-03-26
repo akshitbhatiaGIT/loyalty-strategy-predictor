@@ -20,6 +20,7 @@ loyalty-strategy-predictor/
 ├── customer_churn_data.csv  # Training dataset (65 rows)
 ├── requirements.txt         # Python dependencies
 └── README.md
+```
 
 ## 🔧 Setup & Installation
 ### Prerequisites
@@ -38,6 +39,9 @@ loyalty-strategy-predictor/
 ```bash
 git clone https://github.com/KHUSH241/AIML-PROJECT.git
 cd AIML-PROJECT
+```
 
 ### Step 3 — Install Python Dependencies
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt\
+```
