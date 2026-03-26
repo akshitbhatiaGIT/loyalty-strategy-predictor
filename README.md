@@ -45,3 +45,36 @@ cd AIML-PROJECT
 ```bash
 pip install -r requirements.txt\
 ```
+
+## 🚀 How to Run ( GUI )
+``` bash
+python app.py
+```
+
+## 🖥️ Input Features
+The system uses 5 key features:
+
+* Contract Duration (Months)
+* Monthly Usage (GB)
+* Support Tickets
+* Login Frequency
+* Days Since Last Login
+
+## 🔄 Workflow
+* User enters customer details via GUI
+* Input validation is performed
+* ML model predicts churn risk
+* Risk + customer type sent to Prolog
+* Prolog infers best strategy
+* Results displayed to user  
+
+## 📋 How to Use (Step by Step)
+## Example
+## 📸 Screenshots
+## 🤖 How It Works
+## 📊 Dataset Format
+## 💡 What Makes This Unique
+## 🔮 Future Improvements
+## 📦 Requirements
+## 👤 Author
+**Author:** Akshit Bhatia
