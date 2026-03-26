@@ -1,1 +1,1 @@
-# loyalty-strategy-predictor
+# RetainIQ -- AI Driven Loyalty Strategy Predictor
