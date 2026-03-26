@@ -90,7 +90,7 @@ The system uses 5 key features:
 
 ## 📸 Screenshots
 ## 🤖 How It Works
-1. Application (app.py – GUI)
+### 1. Application (app.py – GUI)
 * A Tkinter-based graphical interface allows user interaction.
 * Users input customer details through form fields.
 * On clicking the analysis button:
@@ -98,7 +98,7 @@ The system uses 5 key features:
 * The system displays results:
   Churn Risk Level (color-coded), Recommended Strategy, Detailed Action Plan
 
-2. Machine Learning (classifier_module.py)
+### 2. Machine Learning (classifier_module.py)
 * A Random Forest Classifier is trained on labelled customer data to predict churn risk.
 * The model uses the following features:
   Contract Duration (Months), Monthly Usage (GB), Support Tickets, Login Frequency, Days Since Last Login
@@ -106,7 +106,7 @@ The system uses 5 key features:
   Low Risk, Medium Risk, High Risk
 The trained model is serialized and stored as churn_classifier.pkl for reuse.
 
-3. Prolog System (rules.pl)
+### 3. Prolog System (rules.pl)
 * The churn risk predicted by the ML model, along with customer type (New / Existing), is converted into Prolog facts:
   churn_risk/1, customer_type/1
 * Inference rules derive one of six predefined strategies:
