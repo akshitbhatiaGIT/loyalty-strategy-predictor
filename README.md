@@ -74,6 +74,11 @@ The system uses 5 key features:
 ## 🤖 How It Works
 ## 📊 Dataset Format
 ## 💡 What Makes This Unique
+This system combines two AI paradigms rarely seen together in student projects:
+* ML handles probabilistic, data-driven risk prediction
+* Prolog handles transparent, logical, rule-based diagnosis
+This mirrors how real clinical decision support systems are designed — not relying on a single AI approach, but combining the strengths of both.
+
 ## 🔮 Future Improvements
 * Add more features (adoption rates, payment delay score)
 * Deploy as web app (Flask / Steamlit)
