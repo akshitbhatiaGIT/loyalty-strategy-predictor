@@ -133,7 +133,7 @@ Contract Duration (Months),Monthly Usage (GB),Support Tickets,Login Frequency,Da
 6,120,2,9.4,11,Medium
 1,300,5,1.6,47,High
 ```
-65 rows covering the full range.
+3000 rows covering the full range.
 
 ## 💡 What Makes This Unique
 This system combines two AI paradigms rarely seen together in student projects:
